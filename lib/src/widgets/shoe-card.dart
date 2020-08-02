@@ -12,7 +12,7 @@ class ShoeCard extends StatelessWidget {
         height: 430,
         decoration: BoxDecoration(
           color: Color(0xffffcf53),
-          borderRadius: BorderRadius.circular(50),
+          borderRadius: BorderRadius.circular(20),
         ),
         child: Column(
           children: <Widget>[
